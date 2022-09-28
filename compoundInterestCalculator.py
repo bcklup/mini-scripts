@@ -1,6 +1,6 @@
 rate = int(input("Interest Rate: "))
 monthly = int(input("Monthly Ammortization: "))
-monthsInYear = int(input("Years in month: "))
+monthsInYear = int(input("Months in year: "))
 years = int(input("How many years: "))
 initialPrincipal = int(input("Initial principal: "))
 
